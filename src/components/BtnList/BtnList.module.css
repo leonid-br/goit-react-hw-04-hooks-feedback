@@ -1,0 +1,18 @@
+.btnList {
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn {
+  border: none;
+  border-radius: 15%;
+  padding: 5px 10px;
+  color: white;
+  background-color: rosybrown;
+}
+
+.btn:hover {
+  background-color: skyblue;
+  outline: none;
+  border: none;
+}

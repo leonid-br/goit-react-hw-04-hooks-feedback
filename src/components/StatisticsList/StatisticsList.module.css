@@ -1,0 +1,18 @@
+.item:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+.title {
+    text-transform: capitalize;
+    font-weight: 600;
+    margin-right: 4px;
+}
+
+.goodStat {
+    color: green;
+    font-weight: 700;
+}
+
+.badStat {
+    color: red;
+}
